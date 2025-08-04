@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VSCode & PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+report.html
+*.log
+
+# Environment files
+.env
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# pytest cache
+.pytest_cache/
